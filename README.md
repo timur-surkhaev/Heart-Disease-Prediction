@@ -1,8 +1,8 @@
-# The Capstone 1 for ML-Zoomcamp 2024
+# The Capstone Project 1 for ML-Zoomcamp 2024
 
 Predicting presence or absence of heart disease based on a patient's health and demographic data
 
-Data is from https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+Data is from https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 
 EDA, model training, and selection are provided in notebooks/diabetes_prediction.ipynb.
 
